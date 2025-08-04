@@ -1,0 +1,1 @@
+// No dynamic JS needed yet, but file is here for future animations
